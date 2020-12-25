@@ -1099,3 +1099,16 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+/* social */
+section.paralax-mf.footer-paralax .title-box-2 {
+  margin-bottom: 0;
+}
+
+.credits > a{
+  text-decoration: underline;
+}
+
+.credits > a:hover{
+  text-decoration: none;
+}

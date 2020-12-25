@@ -1,6 +1,4 @@
-/**
-* Author: Shabaz Shariff
-*/
+
 (function($) {
   "use strict";
 
